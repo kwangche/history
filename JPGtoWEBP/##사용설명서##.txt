@@ -1,0 +1,6 @@
+1. 파이썬 설치 ( python-3.12.8-amd64.exe )
+
+2. 파이썬 라이브러리 pillow설치
+  - bash에서  pip install pillow 치고 엔터
+
+3. input 폴더에 jpg 파일 넣고 JpgToWebp.py 실행 하면 output폴더에 생성됨
